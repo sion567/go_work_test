@@ -1,0 +1,8 @@
+go 1.22.0
+
+use (
+	./mainModule
+	./module
+	./module1
+	./module2
+)
